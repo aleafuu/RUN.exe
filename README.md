@@ -12,7 +12,7 @@ This game was developed as part of my Final Year Project (FYP).
 
 ## Playtesting Survey
 After playing, please complete the following survey:  
-**[Playtesting Survey](https://docs.google.com/forms/d/e/1FAIpQLSc5xnvjhPZgIAmGh9kwy7AKkIzJLotzbL26yrfek6_kfEka2w/viewform?usp=header))**
+**[Playtesting Survey](https://docs.google.com/forms/d/e/1FAIpQLSc5xnvjhPZgIAmGh9kwy7AKkIzJLotzbL26yrfek6_kfEka2w/viewform?usp=header)**
 
 Your response will be used for research to improve the game.
 Any and all responses will be taken into account to make the game better.
